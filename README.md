@@ -24,6 +24,10 @@ This is a mini market website, built with Flask framework, HTML, and CSS. It is 
 2. Create a new branch: `git checkout -b new-feature`
 3. Make changes and commit: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin new-feature`
+
+https://github.com/Emetegift/Gift-Mall/assets/104801555/5227b9af-3d78-4861-baa3-a04d8ca95bef
+
+
 5. Submit a pull request
 
 ## Credits
@@ -31,5 +35,6 @@ This is a mini market website, built with Flask framework, HTML, and CSS. It is 
 This mini market website was built by [Emete Gift ] as part of a web development project.
 
 ## License
+![gift mall](https://github.com/Emetegift/Gift-Mall/assets/104801555/6ebcef85-5bd6-4f61-927d-dd5055a5900b)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
